@@ -67,8 +67,8 @@
 {"key":"穿梭资源","name":"穿梭资源","type":0,"api":"http://ok.888hyk.com/api.php/provide/vod/at/xml","playUrl":"","categories":""},
 {"key":"速搜资源","name":"速搜资源","type":0,"api":"http://www.susouzy.com/api.php/provide/vod/at/xml","playUrl":"","categories":""},
 {"key":"恐怖鸭资源","name":"恐怖鸭资源","type":0,"api":"https://kongbuya.com/api.php/provide/vod/at/xml/","playUrl":"","categories":""},
-{"key":"芒果（限成年人）","name":"芒果（限成年人）","type":0,"api":"https://www.mgav1.cc/api.php/provide/vod/at/xml/","playUrl":"","categories":""},
-{"key":"BT天堂（限成年人）","name":"BT天堂（限成年人）","type":0,"api":"http://bttcj.com/inc/sapi.php","playUrl":"","categories":""},
+{"key":"芒果（限成年人）","name":"芒果资源站","type":0,"api":"https://mgzyz1.com/api.php/provide/vod/at/xml/","playUrl":"","categories":""},
+{"key":"BT天堂（限成年人）","name":"BT天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","playUrl":"","categories":""},
 {"key":"老鸭资源","name":"老鸭资源","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml","playUrl":"","categories":""}
 ],
     "lives": [
